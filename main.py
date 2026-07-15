@@ -1,9 +1,9 @@
 name1 = "micah"
-name2 = "lolade"
+name2 = "nifemi"
 print("hey")
 print("hi")
 print("how are you doing")
-print("i'm fine")
+print("i'm good")
 print("my name is", name2)
 print("what's your name")
 print("my name is", name1)
