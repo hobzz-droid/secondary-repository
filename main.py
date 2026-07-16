@@ -8,4 +8,4 @@ print("my name is", name2)
 print("what's your name")
 print("my name is", name1)
 print("nice to meet you", name1)
-print("nice to meet you", name2)
+print("nice to meet you", name2)cl
